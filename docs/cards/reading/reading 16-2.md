@@ -3,4 +3,4 @@
 - 13
 - 13
 - 13
-	- assigned, not choose
+  - assigned, not choose

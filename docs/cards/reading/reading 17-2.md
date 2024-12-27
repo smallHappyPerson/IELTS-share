@@ -2,5 +2,5 @@
 
 - 13
 - 12
-	- more salt tolerant
+  - more salt tolerant
 - 14

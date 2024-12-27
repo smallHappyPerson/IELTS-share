@@ -11,4 +11,5 @@ The production of ethanol starts from the growth of plants and trees, which acqu
 After being produced, ethanol functions as a fuel for both vehicles and airplanes, which generate carbon dioxide during their travel. Lastly, the carbon dioxide produced from the fuel consumption is released into air, which in return contributes to the growth of the source of ethanol, forests, completing the renewable production process of ethanol.
 
 # review
+
 [[The_diagram_below_shows_how...By_ielts9.me.pdf]]

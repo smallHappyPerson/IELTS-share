@@ -1,13 +1,14 @@
 **7**
+
 - 10/10
 - 7/10
-	- `Three lives` was right, I wrote `three labs` :)
-	- missed
-	- `Phases of China` was wrong `Faces of China` is right, what can I do! 阶段 can also have art focused on it!
+  - `Three lives` was right, I wrote `three labs` :)
+  - missed
+  - `Phases of China` was wrong `Faces of China` is right, what can I do! 阶段 can also have art focused on it!
 - 7/10
-	- `I want the job to be properly structures.` which means current one is not organized
-	- `put that as a definite` means `YES`
-	- .... can't understand
+  - `I want the job to be properly structures.` which means current one is not organized
+  - `put that as a definite` means `YES`
+  - .... can't understand
 - 8/10
-	- missed
-	- missed, did not think the answer should appear in the audio so fast
+  - missed
+  - missed, did not think the answer should appear in the audio so fast

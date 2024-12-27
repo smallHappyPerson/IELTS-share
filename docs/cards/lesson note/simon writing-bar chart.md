@@ -1,4 +1,5 @@
 # Bar chart
+
 - show numbers changing over a period of time(just like line graphs)(you can draw the lines following the time)
 - not always show time, they often only compare numbers(different items). compare the bars
 

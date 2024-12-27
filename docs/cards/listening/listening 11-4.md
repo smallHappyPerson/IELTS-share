@@ -1,24 +1,24 @@
 **8**
 
 - 9/10
-	- 把stall听成了store。。
+  - 把 stall 听成了 store。。
 - 10/10
 - 7/10
-	- 1 missed
-		- not all string
-		- highly regarded in music
-		- tours
-		- some won prizes in competitions
-		- 25-29 (the **mean** was 27.8平均值为27.8)啊不认识`平均值`
-		- recordings they all had
-	- 2 missed
-		- leading musician
-		- quality good
-		- at least 30min, sometimes longer
-		- not stressful
-		- very rich data
-	- 3 missed
-		- impact dress on audience
-		- different instruments
+  - 1 missed
+    - not all string
+    - highly regarded in music
+    - tours
+    - some won prizes in competitions
+    - 25-29 (the **mean** was 27.8 平均值为 27.8)啊不认识`平均值`
+    - recordings they all had
+  - 2 missed
+    - leading musician
+    - quality good
+    - at least 30min, sometimes longer
+    - not stressful
+    - very rich data
+  - 3 missed
+    - impact dress on audience
+    - different instruments
 - 9/10
-	- hard听成hot了。。。英音美音分不清
+  - hard 听成 hot 了。。。英音美音分不清

@@ -1,24 +1,28 @@
 - original writing: [[outweigh 0612]]
 
 # feedbacks
+
 - girl 大作文
-	- 语言要==精简、客观==
-	- 大作文：我看了一个网课说论据也可以结合自己的见闻写，然后这个argument类型的作文可以写得主观一点？这个网课相比之前看的Simon的网课还算靠谱的了（
-		1. 她认为最好不要用`I`开头的
+  - 语言要==精简、客观==
+  - 大作文：我看了一个网课说论据也可以结合自己的见闻写，然后这个 argument 类型的作文可以写得主观一点？这个网课相比之前看的 Simon 的网课还算靠谱的了（
+    1. 她认为最好不要用`I`开头的
 - teacher 大作文
-	- 优点还是缺点题，==原因大概在开头==讲一讲
-	- 论述要有==逻辑==
-	- 论点==连接紧密==
-	- 少一些==词汇重复使用==
-	- 论点和论据，要==充分详细具体==
+  - 优点还是缺点题，==原因大概在开头==讲一讲
+  - 论述要有==逻辑==
+  - 论点==连接紧密==
+  - 少一些==词汇重复使用==
+  - 论点和论据，要==充分详细具体==
+
 # knowledge teacher
+
 [[7ea2cec957c60e000908d4051472f2b0.jpg|精批原件截图]]
 
 - 6.5
-	- CC 6.0
-	- TR 7.0
-	- GA 6.0
-	- LR 6.0
+
+  - CC 6.0
+  - TR 7.0
+  - GA 6.0
+  - LR 6.0
 
 - 语言的精简挺有意思的是不是==能写一个字并且很精准，就不要写俩==。那完了我就是啰嗦，而且我现在说话语言越来越西化也就是越来越啰嗦。
 - give some main points of reasons in the introduction
@@ -27,18 +31,18 @@
 - <u>lay off employees</u> <u>in favor of</u>
 - <u>The root of this issue lies in</u>
 - worker's ==lack== of specialized skills
-	- lack sth 及物动词
-	- lack of sth 名词
+  - lack sth 及物动词
+  - lack of sth 名词
 - Their jobs are <u>automated</u> （老师就是不一样哈有水平）
 - <u>mitigate</u> 减轻，缓解
 - <u>vocational training</u> 职业教育
 - job market
 - thereby 从而
 - <u>employability</u> 指一个人的就业能力或就业市场适应性。提升雇用能力通常涉及到持续学习、职业发展和职业规划，以确保个人具备雇主所寻找的资质
-	1. **就业潜力**：表示一个人在劳动力市场中找到工作的==可能性==，包括适应不同职位需求、展示职业技能和获取工作机会的能力。
-	2. **技能准备**：指个体具备的那些使他们能被雇主接纳的技能和知识
-	3. **市场适应性**：个体在不断变化的就业市场中调整自身，以适应行业需求和职业发展趋势的能力。
-	4. **职业准备**：强调为了就业而获得的教育、培训和实践经验，使求职者在竞争中具有竞争优势。
+  1.  **就业潜力**：表示一个人在劳动力市场中找到工作的==可能性==，包括适应不同职位需求、展示职业技能和获取工作机会的能力。
+  2.  **技能准备**：指个体具备的那些使他们能被雇主接纳的技能和知识
+  3.  **市场适应性**：个体在不断变化的就业市场中调整自身，以适应行业需求和职业发展趋势的能力。
+  4.  **职业准备**：强调为了就业而获得的教育、培训和实践经验，使求职者在竞争中具有竞争优势。
 - <u>enhance</u>
 - 论点之间的==连接==。把==论点按照重要性排序==，并且用==清晰的逻辑联结词==串联
 - 联结词要==明确，自然==。<u>furthermore</u>, <u>in addition</u>, <u>moreover</u>
@@ -59,24 +63,23 @@
 - maintain their <u>individuality</u>
 - undermines
 
-
 # knowledge girl
 
 - <u>shift</u>
 - <u>spark</u> concerns
 - <u>dismiss</u>(rather than `fire` )可以指行为上的结束，也可以指抽象概念的排除或结束。
-	1. **解雇，开除**：在工作场合，表示终止某人的职位，例如 "The manager dismissed an employee for poor performance."
-	2. **打发，遣散**：用于指结束会议、课程或其他活动时，如 "The teacher dismissed the class early."
-	3. **不理会，不予考虑**：在讨论中，表示不接受或忽视某人的观点或建议，如 "The suggestion was dismissed as impractical."
-	4. **消除，驱散**：可以指精神上的不安或物理上的物体，如 "He dismissed his fears before facing the challenge."
-	5. **终止，结束**：可以是某种关系或想法，如 "The argument was dismissed with a wave of his hand."
+  1.  **解雇，开除**：在工作场合，表示终止某人的职位，例如 "The manager dismissed an employee for poor performance."
+  2.  **打发，遣散**：用于指结束会议、课程或其他活动时，如 "The teacher dismissed the class early."
+  3.  **不理会，不予考虑**：在讨论中，表示不接受或忽视某人的观点或建议，如 "The suggestion was dismissed as impractical."
+  4.  **消除，驱散**：可以指精神上的不安或物理上的物体，如 "He dismissed his fears before facing the challenge."
+  5.  **终止，结束**：可以是某种关系或想法，如 "The argument was dismissed with a wave of his hand."
 - programs
-	1. **项目计划** (Project program)：在项目管理中，它是一个包含多个相互关联的任务和活动的计划，用于实现某个目标。
-	2. **教学课程** (Curriculum program)：学校的教学大纲，包括一系列的学科和活动。
-	3. **电视或广播节目** (TV show or broadcast program)：一种定期播出的娱乐、新闻或教育内容集合。
+  1.  **项目计划** (Project program)：在项目管理中，它是一个包含多个相互关联的任务和活动的计划，用于实现某个目标。
+  2.  **教学课程** (Curriculum program)：学校的教学大纲，包括一系列的学科和活动。
+  3.  **电视或广播节目** (TV show or broadcast program)：一种定期播出的娱乐、新闻或教育内容集合。
 - ==`in xx terms`==, not `in xx term`
 - `adaptation`
-	- "Adaptation" 通常在正式和学术语境中使用，而 "adaption" 在口语或非正式场合中可能被接受，虽然拼写上可能存在地区差异。
+  - "Adaptation" 通常在正式和学术语境中使用，而 "adaption" 在口语或非正式场合中可能被接受，虽然拼写上可能存在地区差异。
 - 语言==精练==，这我没办法，其实我想的跟她说的一个意思，但我就是写不出来~~~
 - <u>arduous</u> 艰苦的
 - <u>intellectually stimulating roles</u>
@@ -87,10 +90,12 @@
 - automation
 - <u>prosperous</u> future
 - 时刻紧扣题目！
-# knowledge AI
-AI给我高度评价，打了7分，谢谢你哈。
 
-- ==an== increasing number of 
+# knowledge AI
+
+AI 给我高度评价，打了 7 分，谢谢你哈。
+
+- ==an== increasing number of
 - any area<del>s</del>
 - `in lack of` to `lack`
 - in <del>at</del> the first place
@@ -98,6 +103,7 @@ AI给我高度评价，打了7分，谢谢你哈。
 - 最好不用第一人称
 
 # modified according to girl-0614
+
 - original writing: [[outweigh 0612]]
 
 Nowadays, more and more jobs and task are done by machines which involve hard physical work. Do these effects of this trend outweigh the negative effects?

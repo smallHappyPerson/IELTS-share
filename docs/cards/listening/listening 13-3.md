@@ -3,6 +3,6 @@
 - 10
 - 10
 - 9
-	- missed, decided early
+  - missed, decided early
 - 9
-	- typo 所以我觉得是9啊
+  - typo 所以我觉得是 9 啊

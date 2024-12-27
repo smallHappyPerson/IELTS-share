@@ -1,6 +1,6 @@
 ---
-draft: true 
-date: 2023-01-31 
+draft: true
+date: 2023-01-31
 slug: hello-world
 categories:
   - Hello
@@ -9,7 +9,6 @@ tags:
   - template
   - how-to
 ---
-
 
 # Hello World Blogpost
 

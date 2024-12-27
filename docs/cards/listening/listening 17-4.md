@@ -1,10 +1,10 @@
 **8**
 
 - 9
-	- mistake
+  - mistake
 - 8
-	- missed
+  - missed
 - 9
-	- oh how can i lose! not possible! -> disbelief
+  - oh how can i lose! not possible! -> disbelief
 - 9
-	- sorry for not knowing litre
+  - sorry for not knowing litre

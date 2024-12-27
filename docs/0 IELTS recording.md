@@ -1,16 +1,16 @@
-
 > [!tip] OHOHHHH Result
-> 
-> | 听力  | 阅读  | 写作  | 口语  | 总成绩 |
-> | --- | --- | --- | --- | --- |
-> | 8.5 | 9.0 | 6.5 | 7.0 | 8.0 |
+>
+> | 听力 | 阅读 | 写作 | 口语 | 总成绩 |
+> | ---- | ---- | ---- | ---- | ------ |
+> | 8.5  | 9.0  | 6.5  | 7.0  | 8.0    |
+
 # writing
 
 [[writing pratices]]
 [[writing example notes]]
 
 - tasks I have fnished
-	- 28 example task 2 of simons
+  - 28 example task 2 of simons
 
 # listening
 
@@ -34,6 +34,7 @@ yTitle: score
 [[reading test notes]]
 4~18 reading score chart: (by time sequence)
 ![[Pasted image 20241227231356.png]]
+
 ```chart
 type: line
 labels: [4-1, 4-2, 4-3, 4-4, 10-1, 10-2, 10-3, 5-1, 5-2, 5-3, 5-4,6-1,6-2,10-4,6-3,6-4,7-1,7-2,7-3,7-4,11-1,11-2,8-1,8-2,8-3,8-4,9-1,9-2,11-3,9-3,9-4,11-4,12-1,12-2,12-3,12-4,13-1,13-2,13-3,13-4,14-1,14-2,14-3,14-4,15-1,15-2,15-3,15-4,16-1,16-2,16-3,16-4,17-1,17-2,17-3,17-4,19-1,18-1,18-2,18-3,18-4,19-2,19-3,19-4]
@@ -44,6 +45,7 @@ beginAtZero: true
 xTitle: test
 yTitle: score
 ```
+
 # all finished tests
 
 score chart: (by exam paper sequence)
@@ -51,8 +53,8 @@ score chart: (by exam paper sequence)
 
 ```chart
 type: line
-labels: [4-1, 4-2, 4-3, 4-4, 
-         5-1, 5-2, 5-3, 5-4, 
+labels: [4-1, 4-2, 4-3, 4-4,
+         5-1, 5-2, 5-3, 5-4,
          6-1, 6-2, 6-3, 6-4,
          7-1, 7-2, 7-3, 7-4,
          8-1, 8-2, 8-3, 8-4,
@@ -91,7 +93,7 @@ series:
     data: [7.0, 8.5, 7.0, 8.0,
            8.0, 7.5, 7.5, 7.5,
            8.5, 8.5, 8.0, 9.0,
-           7.5, 8.0, 8.0, 8.5, 
+           7.5, 8.0, 8.0, 8.5,
            9.0, 8.5, 8.5, 8.0,
            8.0, 8.0, 8.0, 8.5,
            8.5, 9.0, 8.0, 8.0,
@@ -109,8 +111,11 @@ beginAtZero: true
 xTitle: test
 yTitle: score
 ```
+
 # writing lesson online
+
 some of the 9band: [[WRITING NOTES]]
+
 # Early Stage (before 20240501)
 
 - [x] [[Simon Speaking]]

@@ -1,6 +1,6 @@
 **9**
 
 - 12
-	- self-control is self-regulation
+  - self-control is self-regulation
 - 13
 - 14
