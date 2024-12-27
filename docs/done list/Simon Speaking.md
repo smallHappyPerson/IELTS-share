@@ -1,0 +1,11 @@
+- [x] 0
+- [x] 1
+- [x] 2
+- [x] 3
+- [x] 4 [[Part2-Describe a place]]
+- [x] 5 [[Part2-Describe an Object]]
+- [x] 6 [[Part2-Describe an Event]]
+- [x] 7 [[Part2-Describe an Activity]]
+- [x] 8 [[Part2-Describe your favourites]]
+- [x] 9 [[Part2-Others]]
+- [x] 10 [[Part3]]

@@ -1,0 +1,8 @@
+- introduction
+	- It is true that...(cause first you need to accept the existence of problem)
+- main body1 (reason behind)
+	- several factors to blame
+- main body2 (approaches to solve)
+	- xxx can be improved/solved.
+- concludion
+	- in conclusion, xx problem wii continue to bother people unless xxx and xxx take measures to ...(do something)

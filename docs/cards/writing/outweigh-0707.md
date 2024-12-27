@@ -1,0 +1,31 @@
+![[5c44c8c2d94836b6db57e238ff9da5d3.jpeg]]
+
+---
+
+Taking a gap year between high school and university to travel or work has become popular among young students nowadays. From my perspective, I believe the advantages definitely outweigh the disadvantages.
+
+Admittedly, taking young students' vulnerability and their need for education into consideration, gap years can have negative impacts. First and foremost, students who have just graduated from high schools are not prepared to face the complex society on their own for their lack of experience and some necessary knowledge. For example, in shortage of relevant knowledge, a young student can fall for recruitment deceits easily, which leads to financial loss and unpaid labor. However, these problems can be solved through efforts from government and grown-ups. For example, proper legal assistance can be offered for young students looking for a job. Surveillance from parents also ensures the safety of those young citizens. 
+
+Taking a year off benefits students by broaden their horizons and prepares them for colleges during this experience. To begin with, universities are supposed to be places where young people pursue their own interests by studying specific knowledge. Unfortunately, having just graduated from high school, these young adults usually know little about how the society and industries works and have no idea what they really like. Taking a gap year to travel or work can offer them an opportunity to observe the world and find the true passions of themselves. And thus when they return to campuses, they can finally devote energy to fields they truly love.  What's more, sometimes working gap years are necessary. For example, some students might have trouble paying for higher education due to their family financial situations. Under this circumstance, earning money for their own education is reasonable and practicable, showing their determination of independence.
+
+In conclusion, although taking gap years sometimes exposes young people to dangerous external social environment, with efforts from relevant organizations and individuals, this concern can be eased. When it comes to the benefits, gap years not only provides a channel for young people to know the world before going to university, but also allows them to earn their own school fees, preparing them for the era of being adults.
+
+
+---
+
+Taking a gap year between high school and university to travel or work has become popular among young students nowadays. From my perspective, I believe the advantages definitely outweigh the disadvantages.
+
+Admittedly, taking young students' vulnerability and their need for education into consideration, gap years can have negative impacts. First and foremost, students who have just graduated from high school~~==s==~~ are not prepared to face the complex society on their own for their lack of experience and some necessary knowledge. For example, in ==a== shortage of relevant knowledge, a young student can fall for recruitment deceits easily, which leads to financial loss and unpaid labor. However, these problems can be solved through efforts from government and grown-ups. For example, proper legal assistance can be offered for(==to==) young students looking for a job. Surveillance from parents also ensures the safety of those young citizens.
+
+- sequence! coherence!
+- details, deeper arguments for both negative impacts and solutions
+
+Admittedly, taking a gap year can have negative impacts due to young students' vulnerability and **their need for continuous education**. First and foremost, students who have just graduated from high school~~==s==~~ are not prepared to face **the complexities of society** on their own because of their lack of experience and necessary knowledge. For example, **due to insufficient knowledge**, a young student might fall for recruitment **scams** easily, **leading** to financial loss and unpaid labor. **These problems highlight the risks associated with a gap year** However, these risks can be **mitigated** **with proper support**. **Government and adult supervision** can play a crucial role in ensuring the safety and success of young students during their gap year. For **instance**, proper legal assistance can be offered for(==to==) young **job seekers** to help them **navigate the job market**. **Additionally, parental guidance and supervision can ensure that students make informed decisions and avoid potential pitfalls.**
+
+Taking a year off benefits students by broaden==ing== their horizons and prepar~~es~~==ing== them for college~~s~~ during this experience. To begin with, universities are supposed to be places where young people pursue their own interests by studying specific knowledge. Unfortunately, having just graduated from high school, these young adults usually know little about how ~~the~~ society and industries work~~s~~ and have no idea what they really like. Taking a gap year to travel or work can offer them an opportunity to observe the world and find the true passions of themselves. And thus when they return to campuses, they can finally devote energy to fields they truly love. What's more, sometimes working gap years are necessary. For example, some students might have trouble paying for higher education due to their family financial situations. Under this circumstance, earning money for their own education is reasonable and practicable, showing their determination of independence.
+
+- why sometimes working is necessary? **moreover, for some students, a working gap year is necessary due to financial constraints**
+- last one: **It not only helps them pay for their education but also demonstrates their determination and independence.**
+- explain how these advantages are realized.
+
+In conclusion, although taking gap years sometimes exposes young people to dangerous external social environment, with efforts from relevant organizations and individuals, this concern can be eased. When it comes to the benefits, gap years not only provide~~s~~ a channel for young people to know the world before going to university, but also allow~~s~~ them to earn their own school fees, preparing them for the era of being adults.
