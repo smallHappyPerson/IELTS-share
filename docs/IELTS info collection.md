@@ -1,4 +1,3 @@
-#IELTS
 
 [[雅思打分规则]]
 [[IELTS 4 Sections]]
