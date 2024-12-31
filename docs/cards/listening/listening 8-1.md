@@ -1,13 +1,12 @@
 **7**
-
 - 7/10
-  - missed
-  - missed
-  - missed
+	- missed
+	- missed
+	- missed
 - 7/10
-  - `car-park` is ok why `car park` is not?
-  - missed
-  - `recording` means `worksheet`? what is a worksheet? 有点像讲义
+	- `car-park` is ok why `car park` is not?
+	- missed
+	- `recording` means `worksheet`? what is a worksheet? 有点像讲义
 - 8/10
-  - I almost misunderstood this whole part
+	- I almost misunderstood this whole part
 - 10/10

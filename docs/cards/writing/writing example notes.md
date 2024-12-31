@@ -3,11 +3,9 @@ src: Simon's examples
 # 1 7.1
 
 ## 1.1 film
-
 Many people prefer to watch foreign films than locally produced films. Why could this be? should governments give more financial support to local film industries?
 
 ### 1.1.1 vocab
-
 - domestically produced
 - promote xx by
 - subsidise the industry
@@ -31,25 +29,22 @@ Many people prefer to watch foreign films than locally produced films. Why could
 - dominate the market
 
 ### 1.1.2 analysis
-
 - introduction
-  - fact
-  - response1
-  - response2
+	- fact
+	- response1
+	- response2
 - detail1
-  - reason1 (budgets)and example
-  - reason2 (stars)
+	- reason1 (budgets)and example
+	- reason2 (stars)
 - detail2
-  - reason1: talented producers lack opportunities due to financial factors.
-  - reason2 and example: governments can get positive results
+	- reason1: talented producers lack opportunities due to financial factors.
+	- reason2 and example: governments can get positive results 
 - conclusion
 
 ## 1.2 tourist
-
 foreign visitors should pay more than local visitors for cultural and historical attractions. To what extent do you agree or disagree with this opinion?
 
 ### vocab
-
 - site
 - monument
 - be charged more
@@ -74,22 +69,19 @@ foreign visitors should pay more than local visitors for cultural and historical
 - counterproductive: 反作用
 
 ### analysis
-
 - introduction
-  - ideas
-  - my opinion
+	- ideas
+	- my opinion
 - detail
-  - opposite arguments and I dispute back
-  - reason: foreign tourists contribute & example
-  - if they pay more, they stop some and example(big example), if did, bad results.
+	- opposite arguments and I dispute back
+	- reason: foreign tourists contribute & example
+	- if they pay more, they stop some and example(big example), if did, bad results.
 - conclusion
 
 ## dependent
-
 Some people think that in the mo
 
 # 0711
-
 the function of
 tourist attraction
 exhibit a collection of ...
@@ -110,7 +102,7 @@ real experience
 promotions
 adacemic qualifications
 professions
-relevant degreehave access to
+relevant degreehave access to 
 those with fewer qualifications
 competitive
 applicants
@@ -135,7 +127,7 @@ customs
 short term
 aloow to
 cultural heritageare responsible for
-a variety of
+a variety of 
 take steps to
 take measures
 gas emissions exhaust fumes from vehicles
@@ -169,21 +161,21 @@ valuable life skills
 will certainly be
 perspective
 greater demand for housinggreater demand for housing construction esestate agents
-a whole host of other companirs homeowners
-atguments
-can be considered from the opposite angle
-isolation
-miss out
-emotional support
-flatmates
-beat the weight of all household bills nad responsobilities
-trend towards
-financial point of view
-push up pproperty priprices
-living costsbenificial and detrimental
+ a whole host of other companirs homeowners
+ atguments
+ can be considered from the opposite angle
+ isolation
+ miss out 
+ emotional support
+ flatmates
+ beat the weight of all household bills nad responsobilities
+ trend towards
+ financial point of view
+ push up pproperty priprices
+ living costsbenificial and detrimental
 detrimental
 
-with regar to
+with regar to 
 forced into certain key subjects
 the course of their choices
 assert

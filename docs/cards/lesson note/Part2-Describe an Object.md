@@ -3,7 +3,6 @@
 key: good ideas, good vocabulary for the most common topic areas
 
 # 1 Possible Topics
-
 - describe something you own
 - describe something you would like to own
 - something you use every day
@@ -13,7 +12,6 @@ key: good ideas, good vocabulary for the most common topic areas
 - something old that you own
 
 # 2 Possible Questions
-
 - what the object is
 - where you got it from
 - who gave it to you
@@ -30,7 +28,6 @@ key: good ideas, good vocabulary for the most common topic areas
 ## 3.1 Theme1: electronic watch
 
 ### 3.1.1 features
-
 features of the watch/what the watch can do
 
 - a smartwatch
@@ -46,7 +43,6 @@ features of the watch/what the watch can do
 - a fashion accessory: looks stunning
 
 ### 3.1.2 useful
-
 being very useful
 
 - various features and functions
@@ -55,7 +51,7 @@ being very useful
 - set reminders and notifications
 - practical, functional, convenient
 - the ultimate in portable devices
-- instant access to the internet
+- instant access to the internet 
 - you couldn't live without this watch
 
 > gadget: 小装置
@@ -64,14 +60,12 @@ being very useful
 > be different.
 
 #### story
-
 if my watch hadn't notified me, I would have forgotten that I had a dentist's appointment yesterday
 
 ## 3.2 Theme2: old watch
-
 ### 3.2.1 inherited
 
-- an inheritance
+- an inheritance 
 - passed down to me by... it's a family heirloom(传家宝)
 - in the family for several generations
 - an antique(古董)
@@ -80,21 +74,18 @@ if my watch hadn't notified me, I would have forgotten that I had a dentist's ap
 - it reminds me of...
 - it brings back happy memories
 - I'll hand it down to my children
-
 #### story
-
 when I was a child, my grandfather taught me how to tell the time using this watch
-
 ### 3.2.2 appearance
-
 - the parts: the face of the watch, the strap(带子)
 - the traditional clock dial(表盘)
-- made of:
-  - a leather strap
-  - nice gold or silver
+- made of: 
+	- a leather strap
+	- nice gold or silver
 - the colors
 - has an inscription(铭文) or engraving(雕刻) on the back(on the back of the watch face there is some writing)
 - my grandfather's name is engraved on the back of this watch
 - simple, minimalistic design
 - it's timeless, classic, elegant, stylish(时尚的),
 - durable(耐用的), resilient(有弹性的)
+

@@ -1,3 +1,4 @@
+
 https://www.bilibili.com/video/BV1nw411j78P
 
 - [x] [[simon writing-general]]
@@ -20,5 +21,5 @@ https://www.bilibili.com/video/BV1nw411j78P
 - [ ] [[simon writing-t2-two part essay]]
 - [ ] [[simon writing-t2-extra help for opinions]]
 - [ ] [[simon writing-t2-summary]]
-- [ ]
-- [ ]
+- [ ] 
+- [ ] 
