@@ -1,4 +1,3 @@
-
 - line graphs shows number change through a period of time
 - in IELTS test there will be more than 1 line. you will see **2-5 lines**, usually 3,4 lines
 - to **compare**, not to describe them separately
@@ -12,6 +11,8 @@
 	- peaks
 	- stable period
 3. write at least 1 thing about 1 line
+
+
 
 # example
 1. **introduction**. paraphrase: just change some words

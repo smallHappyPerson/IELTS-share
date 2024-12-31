@@ -10,7 +10,10 @@ Since people nowadays suffer from housing problems, governments should take the 
 
 In conclusion, to guard residents' health, it's necessary for governments to focus on environmental and housing conditions, given that modern industry brings more environmantal challenges than ever and that unpleasent housing conditions have extremely negative impacts on citizens.
 
+
+
 # review
+
 Governments are expected to focus on eliminating environmental pollution and addressing housing problems to protect citizens from illness and disease. I totally agree with this idea.
 
 > [!vocab]
@@ -67,5 +70,6 @@ In conclusion, to guard residents' health, it's necessary for governments to foc
 
 - vital role
 - implement effective meadures
-- 
+-
+
 ## vocab

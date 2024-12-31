@@ -9,6 +9,8 @@ To deal with this problem, combined efforts from governments and corporations ar
 
 In conclusion, the competition between elder job seekers and younger ones not only brings stress to elders but also poses challenges on youngsters. And this problem can only be solved when government makes efforts on job market and working situation and companies adopt more reasonable recruiting plans.
 
+
+
 # review
 
 **6.5**

@@ -1,10 +1,17 @@
 - original writing: [[line graph 0612]]
+
+
+
 # feedback from girl
+
 - 小作文，==时态要统一==
 1. 小作文：我看的都说overview写两句，所以可以多写几句吗
 	1. 一定要写==明显特征==，多谢也可以
 3. 小作文：我凭感觉用时态，感觉有的时候我是在“现在正描述这个图表”就没有用过去时，但是我觉得“我正描述图表里表示的那个时间点”的时候，就用了过去时。。这个好难把握
 	1. 看==图里面有没有明确的时间==，如果没有的话就都用现在时
+
+
+
 # Q & A
 
 1. 小作文：我看的都说overview写两句，所以可以多写几句吗
@@ -14,7 +21,10 @@
 4. 大作文：我看了一个网课说论据也可以结合自己的见闻写，然后这个argument类型的作文可以写得主观一点？这个网课相比之前看的Simon的网课还算靠谱的了（
 	1. 她认为最好不要用`I`开头的
 
+
+
 # knowledge today
+
 1. `type` to `catagory`
 2. xxx has <u>experienced a drop</u>
 3. xxx has <u>undergone some fluctuation</u>

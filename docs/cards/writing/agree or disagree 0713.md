@@ -10,6 +10,8 @@ On the other hand, people like them also show the successful operation of the cu
 
 In conclusion, it's a brilliant idea to educate students about laws and crimes through speeches given by former prisoners. Not only do they understand deeply how crimes happen, but they themselves can also function as a showcase of modern law systems and reveal the possiblity of being a new person towards teenagers who have already gone through tough situations.
 
+
+
 # review
 
 - unconsciously

@@ -1,6 +1,9 @@
 - original writing: [[outweigh 0612]]
 
+
+
 # feedbacks
+
 - girl 大作文
 	- 语言要==精简、客观==
 	- 大作文：我看了一个网课说论据也可以结合自己的见闻写，然后这个argument类型的作文可以写得主观一点？这个网课相比之前看的Simon的网课还算靠谱的了（
@@ -11,7 +14,11 @@
 	- 论点==连接紧密==
 	- 少一些==词汇重复使用==
 	- 论点和论据，要==充分详细具体==
+
+
+
 # knowledge teacher
+
 [[7ea2cec957c60e000908d4051472f2b0.jpg|精批原件截图]]
 
 - 6.5
@@ -60,6 +67,7 @@
 - undermines
 
 
+
 # knowledge girl
 
 - <u>shift</u>
@@ -87,7 +95,11 @@
 - automation
 - <u>prosperous</u> future
 - 时刻紧扣题目！
+
+
+
 # knowledge AI
+
 AI给我高度评价，打了7分，谢谢你哈。
 
 - ==an== increasing number of 
@@ -97,7 +109,10 @@ AI给我高度评价，打了7分，谢谢你哈。
 - `work` can be noun
 - 最好不用第一人称
 
+
+
 # modified according to girl-0614
+
 - original writing: [[outweigh 0612]]
 
 Nowadays, more and more jobs and task are done by machines which involve hard physical work. Do these effects of this trend outweigh the negative effects?

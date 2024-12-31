@@ -2,6 +2,8 @@
 
 key: good ideas, good vocabulary for the most common topic areas
 
+
+
 # 1 Possible Topics
 - describe something you own
 - describe something you would like to own
@@ -10,6 +12,8 @@ key: good ideas, good vocabulary for the most common topic areas
 - a gift you received
 - a gift you gave
 - something old that you own
+
+
 
 # 2 Possible Questions
 - what the object is
@@ -20,8 +24,9 @@ key: good ideas, good vocabulary for the most common topic areas
 
 ==choose an object== that could be used for any of the topics above
 
-# 3 Example: choose a watch
 
+
+# 3 Example: choose a watch
 - an **electronic** piece of equipment
 - an **old** watch description
 
@@ -41,6 +46,7 @@ features of the watch/what the watch can do
 - pay with these watches
 - track your exercise goals
 - a fashion accessory: looks stunning
+
 
 ### 3.1.2 useful
 being very useful
@@ -62,9 +68,10 @@ being very useful
 #### story
 if my watch hadn't notified me, I would have forgotten that I had a dentist's appointment yesterday
 
-## 3.2 Theme2: old watch
-### 3.2.1 inherited
 
+## 3.2 Theme2: old watch
+
+### 3.2.1 inherited
 - an inheritance 
 - passed down to me by... it's a family heirloom(传家宝)
 - in the family for several generations
@@ -74,8 +81,11 @@ if my watch hadn't notified me, I would have forgotten that I had a dentist's ap
 - it reminds me of...
 - it brings back happy memories
 - I'll hand it down to my children
+
 #### story
 when I was a child, my grandfather taught me how to tell the time using this watch
+
+
 ### 3.2.2 appearance
 - the parts: the face of the watch, the strap(带子)
 - the traditional clock dial(表盘)
@@ -88,4 +98,3 @@ when I was a child, my grandfather taught me how to tell the time using this wat
 - simple, minimalistic design
 - it's timeless, classic, elegant, stylish(时尚的),
 - durable(耐用的), resilient(有弹性的)
-

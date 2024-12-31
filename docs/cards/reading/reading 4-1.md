@@ -1,4 +1,5 @@
 ## 4-1
+
 ==2024-04-29== **7.0**
 1. 9/14
 	1. misunderstood
@@ -10,4 +11,4 @@
 	1. looking at the wrong adjacent sentence! so close!
 3. 12/14
 	1. the use of, not do it themselves
-	2. do not know `dashed line` is - - - - 
+	2. do not know `dashed line` is - - - -

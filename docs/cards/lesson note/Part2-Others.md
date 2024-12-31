@@ -1,4 +1,7 @@
 if you have a question that don't fit into the 6 topics
+
+
+
 # 1 Possible Questions
 1. describe an important choice that you had to make
 2. describe an idea you had for improving something at work/college
@@ -15,6 +18,9 @@ if you have a question that don't fit into the 6 topics
 13. describe a local news story that people in your area found interesting
 14. describe a time when you are stuck in traffic or delayed when traveling
 15. describe a time when you helped someone
+
+
+
 # 2 Advices
 1. you can adapt your ideas from a main topic
 2. talk about your job or studies
@@ -23,6 +29,7 @@ if you have a question that don't fit into the 6 topics
 > be able to describe your job/study/career
 > **good vocabularies**
 3. look through the lessons on my blog(I've covered those stranger topics)
+
 ## 2.1 examples of adapting ideas
 - a time when you go on a journey->place
 - a shop->an object(watch)/favourite(book)
@@ -31,9 +38,10 @@ if you have a question that don't fit into the 6 topics
 - a local news story->a place(what happened there)
 - if you are stuck in traffic or delayed
 - a time when you helped people->place(you told someone directions of the place/give advice of which place to go)/object(I taught someone to use new phone/watch)
+
+
 ## 2.2 job and studies
 answer the "other" questions using your job/studies
 
 > [!note]
 the 6 main topic areas are still the most important
-

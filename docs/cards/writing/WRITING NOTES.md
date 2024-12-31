@@ -1,4 +1,5 @@
 # Requirements for map graphs
+
 - 分类
 	- 选址类小作文：一张图有针对某个建筑的**2个选址**
 		- 对两个选址的基本情况进行描述
@@ -7,7 +8,9 @@
 		- 分别对两个时期地图中呈现的不同状况进行完整的描述
 - 对所有重要的信息点都要描述
 - 选址类没出现过
+
 ## difficulties
+
 - ability to read a map
 	- all elements
 	- location, size, buildings, roads, facilities, natural sites
@@ -15,10 +18,16 @@
 	- for all elements: location, feature, status, changes
 [[vocabs in describing a location]]
 
+
 ## Time tense 时态
+
 - not given: 一般现在时
 - given: according to the specific time
+
+
+
 # Article Organization of writing task1--map describing changes
+
 - intro
 - detail1
 	- before change

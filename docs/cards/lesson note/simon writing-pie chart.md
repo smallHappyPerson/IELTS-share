@@ -6,4 +6,4 @@
 	- **compare**, not describe separately
 	- mention all catagories
 
-- a sentence from overview->expand it 
+- a sentence from overview->expand it

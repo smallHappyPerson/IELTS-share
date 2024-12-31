@@ -1,4 +1,7 @@
 ==refer to the repo of writing now. zhouanqi/writing/==
+
+
+
 # part 1
 
 ---
@@ -14,6 +17,9 @@ Australian families use their energy mostly on heating and hardly on cooling. Ho
 First of all, Heating seems to be a considerable demand in Australian since the energy goes to heating takes up to 42% of all the energy expenditure. However, house heating alone does not produce too much greenhouse gas possibly thanks to those environmental-friendly approaches to provide heating adopted. On the contrary, energy used for cooling takes only a tiny part of the sum and almost does not result in greenhouse gas release, too.
 
 Meanwhile, water heating is not only counted as the second most consumption of energy, up to 32%, but also contributed to the most greenhouse gas emissions which is 32%. Just the same, energy used for refrigeration, lighting, appliances also see a sharp difference between the proportion of energy consumption and production of greenhouse gas. These objects, which does not make a big part in energy using, does generated more greenhouse gases from energy use.
+
+
+
 # part 2
 
 ---

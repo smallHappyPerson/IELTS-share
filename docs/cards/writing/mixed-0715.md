@@ -8,6 +8,8 @@ I also believe that the advantages of preserving old buildings weigh far more th
 
 In conclusion, I believe old architectures which contains huge details of old days deserve to be preserved for its values in a cultural meaning. And the practice of preserving is not only urgent due to the expectancy of a building, but also has the potential to bring back financial benefits.
 
+
+
 # review
 
 - more worthy
@@ -16,4 +18,4 @@ In conclusion, I believe old architectures which contains huge details of old da
 - moerover, furthermore, additionally
 - there value is beyond measure
 - value in a cultural sense
-- 
+-

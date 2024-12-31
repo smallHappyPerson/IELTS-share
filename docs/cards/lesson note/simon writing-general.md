@@ -1,10 +1,14 @@
 - understand task
 - break task into parts
 
+
+
 # writing task1
 - **describe** a figure, write a report(description)
 - no opinions
 - no conclusion, a summary/overview
+
+
 
 # different types
 - show **numbers**, quite the same, using number language
@@ -23,6 +27,8 @@
 - diagram-comparing
 - diagram-process(**special**)
 
+
+
 # essay structure
 - 4 paragraphs
 	- introduction
@@ -34,5 +40,3 @@
 	- details
 	- details
 		- organize better in 2 paragraphs
-
-

@@ -8,7 +8,10 @@ From 1950 to 2000, Australia saw the most significant increase in terms of popul
 
 According to the projections, by 2050, the population in Australia would have rised to 25.2 million, with an average annual increase rate of 0.6% starting from 1950. The population in North American are also predicted to continue rising on the basis of 2000, with an increase rate of 0.6% in total, reaching the final figure of 417.8 million in 2050. However, both the population in Europe and Japan are expected to experience a drop from 2000(Japan 127.5 million, Europe 450.6 million) to 2050(Japan 98 million, Europe 379.2 million), leaving the increase rate of these 2 areas during a 100-year-span only 0.3% and 0.5% respectively.
 
+
+
 # Advice
+
 The table compares the change of the population in 4 areas in 1950 and 2000, as well as the projections in 2050.
 
 The population in Australia and North America witnessed a considerable increase from 1950 to 2000, while that in Europe and Japan 【这里可以不用分这么具体，因为你后文其实都提到了哪两个是快速增长，哪两个稍慢；可以说四个地方都增长，然后把人口最高和最低的国家指出来就好了】experienced merely a slight rise. Comparing to the figures in 2000, by 2050, the population in Europe and in Japan are expected to go through a drop, while that in the other two areas continue rising.【 还有average annual这里也要比较，谁是每年增长的最快的（如果修改完之后这段太长了这句话也可以不加】

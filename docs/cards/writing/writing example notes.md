@@ -1,11 +1,15 @@
 src: Simon's examples
 
+
+
 # 1 7.1
 
 ## 1.1 film
+
 Many people prefer to watch foreign films than locally produced films. Why could this be? should governments give more financial support to local film industries?
 
 ### 1.1.1 vocab
+
 - domestically produced
 - promote xx by
 - subsidise the industry
@@ -28,7 +32,9 @@ Many people prefer to watch foreign films than locally produced films. Why could
 - locally made films
 - dominate the market
 
+
 ### 1.1.2 analysis
+
 - introduction
 	- fact
 	- response1
@@ -41,10 +47,13 @@ Many people prefer to watch foreign films than locally produced films. Why could
 	- reason2 and example: governments can get positive results 
 - conclusion
 
+
 ## 1.2 tourist
+
 foreign visitors should pay more than local visitors for cultural and historical attractions. To what extent do you agree or disagree with this opinion?
 
 ### vocab
+
 - site
 - monument
 - be charged more
@@ -68,7 +77,9 @@ foreign visitors should pay more than local visitors for cultural and historical
 - promote:推动，促进，宣传推广，提倡支持，鼓励支持
 - counterproductive: 反作用
 
+
 ### analysis
+
 - introduction
 	- ideas
 	- my opinion
@@ -78,10 +89,15 @@ foreign visitors should pay more than local visitors for cultural and historical
 	- if they pay more, they stop some and example(big example), if did, bad results.
 - conclusion
 
+
 ## dependent
+
 Some people think that in the mo
 
+
+
 # 0711
+
 the function of
 tourist attraction
 exhibit a collection of ...
@@ -148,6 +164,8 @@ with less packaging
 reusable bags
 reusing and recycling
 looking after the environmnet
+
+
 
 # 0715
 

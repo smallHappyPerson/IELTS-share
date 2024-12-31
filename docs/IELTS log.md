@@ -1,5 +1,5 @@
-
 # 2024-07-21
+
 | 听力  | 阅读  | 写作  | 口语  | 总成绩 |
 | --- | --- | --- | --- | --- |
 | 8.5 | 9.0 | 6.5 | 7.0 | 8.0 |
@@ -8,17 +8,28 @@
 	- **speaking** normal, can be better.
 	- **listen** and **reading** normal
 
+
+
 # 2024-07-07
+
 - I think my listening score can be above ==8== and my reading score can be above ==8==. 
 - **speaking** is much better now, I really have to talk to real people. especially arguing!
 - still need to read for **writing**. writing makes me nervous
 
+
+
 # 2024-05-29
+
 - After a month doing **listening** and **reading** exercises, I think my listening score can be above 7.5 and my reading score can be above 8. If I don't make big mistakes on listening I can get 8, too. If I do well on reading , I can get 8.5
 - **speaking** can be a problem, but I can keep talking to Annie and keep watching British TV shows.
 - I think the important part of **writing** is to *read* lots of example articles and imitate them. So read a lot and write a lot, but purposely.
+
+
+
 # 2024-04-29
+
 ## What am I planning on
+
 - ***listening***: 
 	- doing real questions **daily** *40min*; 
 	- continue doing that real exercises on bilibili **daily** *30min*;
@@ -37,7 +48,10 @@
 > I was one of those kind of people who will not achieve anything without someone else pushing from behind. For example, I don't clean too much, but I have a maximum of tolerance, once I cannot stand up with that room any more, I will clean it including every visible corner. In this case, the extent to which my room is a mess played the role of the one who pushes me. (maybe that's why I got `P` in MBTI...) I have to say, looking through my life, my attitude is more like "I want this, but I am too lazy to actually devote much effort to this, so let's make casual efforts and see what will happen then."
 > 
 > And I should definitely thank my high school teachers who had made plans for me and forced me to do them. But should I? Could they be the ones to blame for my lack of ability to follow a self-made plan? But maybe that is mostly a problem of mine.
+
+
 ## What have I done by far
+
 - **finished** Simon's lessons and have taken notes, haven't reviewed or gone through yet
 	- this helps
 - ***reading***: have been going through some IELTS vocabs recently

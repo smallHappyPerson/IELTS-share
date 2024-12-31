@@ -1,4 +1,3 @@
-
 **celebrated** romance novelist
 著名的 浪漫小说家
 

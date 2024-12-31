@@ -3,13 +3,20 @@
 - **where** you do it
 - **who** you do it with 
 - **why** you like it
+
+
+
 # Activities to be described
 - a hobby
 - a sport
 - a game
 - something healthy you do
 - something new that you have done recently
+
+
+
 # Example Activities
+
 ## sport: swimming-healthy
 **benefits of swimming**
 - keep fit
@@ -24,6 +31,8 @@
 - a low-impact sport低强度运动
 - helps to relieve stress /relaxing 
 - helps to clear my mind
+
+
 ## game: chess-enjoyable
 **chess words**
 - a board game
@@ -37,8 +46,14 @@
 - concentration/mental workout
 - problem-solving/strategy
 - learn from your mistakes/losses
+
+
+
 # Stories
+
 ## Swimming-relaxing
 - yesterday I had a lot on my mind but as soon as I hit the water all of my troubles disappeared
+
+
 ## Chess-learn
 - I had one friend who always beat me but I copied his strategies when playing other people

@@ -1,4 +1,3 @@
-
 > [!QUESTION]
 > The chart shows the percentage of time working adults spent the day on different activities in a particular country in 1958 and 2008.
 ![[Screenshot_2024-06-21-09-16-57-228_com.zhan.ieltstiku.jpg]]
@@ -10,6 +9,9 @@ In both years, working adults spent the bulk of their days on working and sleepi
 The top two time-consuming activities in 1958 and 2008 are sleeping and working, sum of which accounting for over 65 percent in both years. However, it's notable that with the percentage of time spent on working remarkably rised from 33%(1958) to 42%(2008), that put in sleeping experienced a sharp fall from 32% in 1958 to 25% in 2008. Simultaneously, the time people spent on travelling between home and work also witnessed a considerable increase, from 2%(1958) to 8%(2008).
 
 In 2008, working adults merely spent 6% of their time on hanging out with others, which was a dramatically drop comparing to the figure in 1958 during which the figure ranked the 3rd place, reaching 16%. In contrast, the time adults spent on relaxing at home increased by 5% on a basis of 8% in 1958. Lastly, time spent on other activities such as interests and sports remains stable at about 6% in both years.
+
+
+
 # Advices
 
 The pie chart compares the proportion of time spent by working adults during a day on various activities in 1958 and 2008 within one country.
