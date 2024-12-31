@@ -1,4 +1,5 @@
 **8**
+
 - 11/13
 	- not fight, just sway with the power of the nature. how can this be `absorb`?
 	- ***as*** in china, they were first imtroduced with Buddhism

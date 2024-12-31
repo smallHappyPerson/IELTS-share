@@ -1,4 +1,5 @@
 **8.5**
+
 - 12/13
 	- not buying it. `help on getting an education` not necessarily financial
 - 12/13
