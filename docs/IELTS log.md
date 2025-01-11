@@ -3,6 +3,7 @@
 | 听力  | 阅读  | 写作  | 口语  | 总成绩 |
 | --- | --- | --- | --- | --- |
 | 8.5 | 9.0 | 6.5 | 7.0 | 8.0 |
+
 - exam: 
 	- failed at **writing** part, with 40 min spent on part1 and only 20 min on part2, my part2 was like shit. However, 6.5 is surprise for me. I thought it might have been lower than 6...
 	- **speaking** normal, can be better.
