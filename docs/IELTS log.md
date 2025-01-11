@@ -51,7 +51,7 @@
 > And I should definitely thank my high school teachers who had made plans for me and forced me to do them. But should I? Could they be the ones to blame for my lack of ability to follow a self-made plan? But maybe that is mostly a problem of mine.
 
 
-## What have I done by far
+## What have I done so far
 
 - **finished** Simon's lessons and have taken notes, haven't reviewed or gone through yet
 	- this helps
